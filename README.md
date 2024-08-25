@@ -23,3 +23,7 @@ Released under MIT license
 Contact
 -------
 Wang Shuang: swang@nwu.edu.cn
+
+License
+-------
+Free for non-commercial usage
